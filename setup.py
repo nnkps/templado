@@ -33,7 +33,7 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
     ],
     install_requires=[
-	'Django == 1.7',
+	'Django == 2.2.24',
         'CairoSVG',
         'Pyphen', 
         'WeasyPrint',
